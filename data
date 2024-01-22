@@ -1,0 +1,5 @@
+*** Variables ***
+${user_id}    ron
+${password}    ron
+${user_work_mode}    WFO (Work From Office)
+${user_campaign}    Cert_Outbound

@@ -1,0 +1,10 @@
+# Login Page Elements
+user_id_x = "xpath://input[@automationid='enterLoginUsername']"
+user_passwd_x = "xpath://input[@automationid='enterLoginPassword']"
+login_button_x = "xpath://button[@automationid='loginButton']"
+force_login_ok_button_x = "xpath://button[@automationid='confirmationBtn1']"
+agent_work_modes_list_x = "xpath://input[@name='workingMode']/following-sibling::label"
+agent_work_mode_next_button_x = "xpath://button[span[text()='Next']]"
+select_voice_campaign_input_x = "xpath://input[@placeholder='Select Voice Campaign']"
+voice_campaign_list_x = "xpath://li[@role='treeitem']"
+voice_campaign_select_save_button_x = "xpath://button[@automationid='camapignSaveBtn']"
